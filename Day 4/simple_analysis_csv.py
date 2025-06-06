@@ -1,4 +1,4 @@
-filename = "Z:/Python/data.csv"
+filename = "Z:/Python/simple_data.csv"
 data = open(filename, 'r')
 lines = data.readlines()
 
