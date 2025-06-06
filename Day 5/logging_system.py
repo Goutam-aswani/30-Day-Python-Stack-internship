@@ -11,7 +11,7 @@ logging.basicConfig(
 )
 
 
-base_path = "Z:/Python/day4/combined_output1"
+base_path = "parsing_files"
 os.makedirs(base_path, exist_ok=True)
 logging.info(f"Created {base_path} succesfully")
 
